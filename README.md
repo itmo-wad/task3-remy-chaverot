@@ -1,10 +1,12 @@
-# task2-remy-chaverot
+# task3-remy-chaverot
 
 <b>BASIC PART</b>
 
-Create host gallery with flask.
+Create form login and redirect user if it is good
+admin : 123456
 
 pip3 install Flask
 python3 app.py
 
-localhost:5000
+localhost:5000 -> login form
+
